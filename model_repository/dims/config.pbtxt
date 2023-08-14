@@ -1,0 +1,22 @@
+name: "dims"
+backend: "python"
+max_batch_size: 0 
+input [
+{
+    name: "dims_input"
+    data_type: TYPE_INT32
+    dims: [ -1 ]
+}
+]
+ 
+output [
+{
+    name: "dims_output"
+    data_type: TYPE_INT32
+    dims: [ -1]
+}
+
+
+
+]
+
