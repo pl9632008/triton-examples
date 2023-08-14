@@ -1,3 +1,0 @@
-/workspace/C_client/build/CMakeFiles/cclient.dir
-/workspace/C_client/build/CMakeFiles/edit_cache.dir
-/workspace/C_client/build/CMakeFiles/rebuild_cache.dir
